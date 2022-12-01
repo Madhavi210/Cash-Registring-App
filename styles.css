@@ -15,6 +15,7 @@ body {
     margin: auto;
   }
 
+  
 label {
     color:#0369a1
 }
@@ -34,7 +35,7 @@ table,th,td {
     color: black;
   }
   
-  
+
 th,td {
     padding: 2px;
     text-align: left;
