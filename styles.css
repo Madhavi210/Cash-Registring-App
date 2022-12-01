@@ -34,6 +34,7 @@ table,th,td {
     color: black;
   }
   
+  
 th,td {
     padding: 2px;
     text-align: left;
@@ -41,7 +42,7 @@ th,td {
     border-bottom: 1px solid #ddd;
   }
 
-  
+
 input {
     display: block;
     margin: auto;
